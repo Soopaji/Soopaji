@@ -1,10 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20JaiSoopa&fontSize=90&animation=fadeIn&fontAlignY=38)
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+working+on+Gesture+motion+detection;Collaborating+on+Python+projects;Need+help+with+Roommate+Match+App;Learning+Supabase+and+AI;Fun+Fact:+I+don't+know+how+to+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&height=120&lines=%24+sys_info+--user;%3E+Loading+User%3A+Jai+Soopa...;%3E+Status%3A+Gesture+Motion+Dev;%3E+Access+Granted._" alt="Hacker Terminal Header" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=🔭+I’m+working+on+Gesture+motion+detection;👯+I’m+looking+to+collaborate+on+python+projects;🤝+I’m+looking+for+help+with+Roommate+Match+app;🌱+I’m+currently+learning+supabase;⚡+Fun+fact:+I+don't+know+how+to+code" alt="Typing Details" />
+</div>
+
 
 <div align="center">
 
@@ -17,7 +20,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack Details</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
@@ -59,7 +62,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 System Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soopaji&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
@@ -69,12 +72,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soopaji&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<h3 align="center">🏆 Achievements</h3>
+<h3 align="center">🏆 Achievements unlocked</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Soopaji&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h3 align="center">🔝 High Traffic Targets</h3>
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Soopaji&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributions" />
 </div>
@@ -85,6 +88,4 @@
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Soopaji&icon=1&color=4" alt="Visitor Count" />
   </a>
-  <br/>
-  <sub>Profile enhanced with ❤️ using <a href="https://github.com/Soopaji">Soopaji's Profile</a></sub>
 </div>
